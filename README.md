@@ -13,21 +13,21 @@
 よい仕事や成果物に繋がるのであれば部署や役職に拘らず、何にでも手を出し協力する働き方が好きです。
 ステークホルダーやユーザーと近い距離で開発し、価値を届け喜びを得られるようチーム全員で協力して仕事をしたいと考えてい ます。
 
-### 重視している価値観
+## 重視している価値観
 - 皆が平等であること
 - プロとしてその時点でのベストを尽くし誠実な仕事をすること
 - 新しいことに挑戦し刺激を受け成長できること
 - チームで力を合わせること
 - 楽しくいきいきと、遊び心も忘れずに
 
-### 資格
+## 資格
 | 取得年月 | 資格名 |
 | - | - |
 | 2018/05 | 基本情報技術者試験 |
 | 2023/05 | JSTQB認定テスト技術者資格 Foundation Level |
 | 2023/06 | Certified Scrum Developer |
 
-### 経歴
+## 経歴
 - キヤノン株式会社 (2015-2022)
   - プリンター用のモバイルアプリ開発
     - Android (2017-2020)
@@ -39,7 +39,7 @@
   - グループウェアのモバイルアプリ開発
     - iOS (2023-)
 
-### 登壇歴
+## 登壇歴
 | 日時 | イベント | 資料 |
 | - | - | - |
 | 2021/10/02 | [Scrum Fest Mikawa 2021](https://www.scrumfestmikawa.org/2021) | [情熱が消えそうなあなたへ - コミュニティでもらった処方箋たち](https://speakerdeck.com/ewa/prescriptions-from-community) |
@@ -49,13 +49,13 @@
 | 2023/08/26 | [Scrum Fest Sendai 2023](https://www.scrumfestsendai.org/) | [アジャイルなスポーツ、バスケットボールの魅力](https://speakerdeck.com/ewa/attraction-of-agile-sports-basketball) |
 | 2024/01/11 | [Regional Scrum Gathering Tokyo 2024](https://2024.scrumgatheringtokyo.org/) | [約30年の時を超えたデザインパターンの価値 -現代のスクラムチームの開発者がGoFのデザインパターンを学び直し得たもの-](https://speakerdeck.com/ewa/the-timeless-quality-of-gof-design-patterns) |
 
-### リンク
-#### ブログ
+## リンク
+### ブログ
 - [個人note](https://note.com/ewa_mobile/)
 - [個人Zenn](https://zenn.dev/ewa)
 - [会社ブログ@クリエーションライン](https://www.creationline.com/author/y-uchida)
 
-#### 読書ログ
+### 読書ログ
 - [読書メーター](https://bookmeter.com/users/1258253)
 
 <!--
