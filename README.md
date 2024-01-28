@@ -50,17 +50,13 @@
 | 2024/01/11 | [Regional Scrum Gathering Tokyo 2024](https://2024.scrumgatheringtokyo.org/) | [約30年の時を超えたデザインパターンの価値 -現代のスクラムチームの開発者がGoFのデザインパターンを学び直し得たもの-](https://speakerdeck.com/ewa/the-timeless-quality-of-gof-design-patterns) |
 
 ### リンク
-<details>
-  
-  #### ブログ
-  - [個人note](https://note.com/ewa_mobile/)
-  - [個人Zenn](https://zenn.dev/ewa)
-  - [会社ブログ@クリエーションライン](https://www.creationline.com/author/y-uchida)
+#### ブログ
+- [個人note](https://note.com/ewa_mobile/)
+- [個人Zenn](https://zenn.dev/ewa)
+- [会社ブログ@クリエーションライン](https://www.creationline.com/author/y-uchida)
 
-  #### 読書ログ
-  - [読書メーター](https://bookmeter.com/users/1258253)
-  
-</details>
+#### 読書ログ
+- [読書メーター](https://bookmeter.com/users/1258253)
 
 <!--
 **ewa1989/ewa1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
