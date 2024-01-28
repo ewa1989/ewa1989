@@ -25,9 +25,16 @@
 | 2023/06 | Certified Scrum Developer |
 
 ### 経歴
-- キヤノン株式会社（2015-2022）
-- クリエーションライン株式会社（2022-2023）
-- サイボウズ株式会社（2023-）
+- キヤノン株式会社 (2015-2022)
+  - プリンター用のモバイルアプリ開発
+    - Android (2017-2020)
+    - iOS (2020-2022)
+- クリエーションライン株式会社 (2022-2023)
+  - 業務記録用のモバイルアプリ受託開発
+    - Android (2022-2023)
+- サイボウズ株式会社 (2023-)
+  - グループウェアのモバイルアプリ開発
+    - iOS (2023-)
 
 ### 登壇歴
 | 日時 | イベント | 資料 |
@@ -38,6 +45,19 @@
 | 2023/05/20 | [Scrum Fest Niigata 2023](https://www.scrumfestniigata.org/2023) | [相互理解を目指す対話主体のコミュニケーションで心の負担を軽減し持続可能な組織変革を](https://speakerdeck.com/ewa/sustainable-organizational-change-through-dialogue-based-communication) |
 | 2023/08/26 | [Scrum Fest Sendai 2023](https://www.scrumfestsendai.org/) | [アジャイルなスポーツ、バスケットボールの魅力](https://speakerdeck.com/ewa/attraction-of-agile-sports-basketball) |
 | 2024/01/11 | [Regional Scrum Gathering Tokyo 2024](https://2024.scrumgatheringtokyo.org/) | [約30年の時を超えたデザインパターンの価値 -現代のスクラムチームの開発者がGoFのデザインパターンを学び直し得たもの-](https://speakerdeck.com/ewa/the-timeless-quality-of-gof-design-patterns) |
+
+### リンク
+<details>
+  
+  #### ブログ
+  - [個人note](https://note.com/ewa_mobile/)
+  - [個人Zenn](https://zenn.dev/ewa)
+  - [会社ブログ@クリエーションライン](https://www.creationline.com/author/y-uchida)
+
+  #### 読書ログ
+  - [読書メーター](https://bookmeter.com/users/1258253)
+  
+</details>
 
 <!--
 **ewa1989/ewa1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
