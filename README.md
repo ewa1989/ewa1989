@@ -46,8 +46,9 @@
 | 2022/06/18 | [Scrum Fest Osaka 2022](https://www.scrumosaka.org/2022) | [やらされ感の漂うチームにファシリテーターサインアップ制導入で起こった変化](https://speakerdeck.com/ewa/changes-made-by-sign-up-for-the-passive-team) |
 | 2022/10/01 | [XP祭り2022](https://xpjug.com/xp2022/) | [アジャイルな引越しの荷づくり](https://speakerdeck.com/ewa/agile-moving-and-packing) |
 | 2023/05/20 | [Scrum Fest Niigata 2023](https://www.scrumfestniigata.org/2023) | [相互理解を目指す対話主体のコミュニケーションで心の負担を軽減し持続可能な組織変革を](https://speakerdeck.com/ewa/sustainable-organizational-change-through-dialogue-based-communication) |
-| 2023/08/26 | [Scrum Fest Sendai 2023](https://www.scrumfestsendai.org/) | [アジャイルなスポーツ、バスケットボールの魅力](https://speakerdeck.com/ewa/attraction-of-agile-sports-basketball) |
+| 2023/08/26 | [Scrum Fest Sendai 2023](https://www.scrumfestsendai.org/2023) | [アジャイルなスポーツ、バスケットボールの魅力](https://speakerdeck.com/ewa/attraction-of-agile-sports-basketball) |
 | 2024/01/11 | [Regional Scrum Gathering Tokyo 2024](https://2024.scrumgatheringtokyo.org/) | [約30年の時を超えたデザインパターンの価値 -現代のスクラムチームの開発者がGoFのデザインパターンを学び直し得たもの-](https://speakerdeck.com/ewa/the-timeless-quality-of-gof-design-patterns) |
+| 2025/05/10 | [Scrum Fest Niigata 2025](https://www.scrumfestniigata.org/) | [良いチームに憧れ苦悩し続ける中で実感した3つの要素](https://speakerdeck.com/ewa/three-things-to-be-a-good-team) |
 
 ## リンク
 ### ブログ
