@@ -55,6 +55,7 @@
 - [個人note](https://note.com/ewa_mobile/)
 - [個人Zenn](https://zenn.dev/ewa)
 - [会社ブログ@クリエーションライン](https://www.creationline.com/author/y-uchida)
+- [会社ブログ@Cybozu](https://blog.cybozu.io/search?q=iOS%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%E5%86%85%E7%94%B0)
 
 ### 読書ログ
 - [読書メーター](https://bookmeter.com/users/1258253)
