@@ -1,5 +1,5 @@
 ## About
-<img src="https://github.com/ewa1989/ewa1989/assets/65172567/33184171-0c12-4117-9dee-d0e7166981c5" width="500px">
+<img src="https://github.com/user-attachments/assets/335882fc-02b2-4ddd-92c0-7f440bbc18e4" width="500px">
 
 - えわ (Yusuke Uchida)
 - モバイルエンジニア
@@ -26,6 +26,7 @@
 | 2018/05 | 基本情報技術者試験 |
 | 2023/05 | JSTQB認定テスト技術者資格 Foundation Level |
 | 2023/06 | Certified Scrum Developer |
+| 2025/12 | JSTQB認定テスト技術者資格 Foundation Level Extension シラバス アジャイルテスト担当者 |
 
 ## 経歴
 - キヤノン株式会社 (2015-2022)
@@ -49,6 +50,8 @@
 | 2023/08/26 | [Scrum Fest Sendai 2023](https://www.scrumfestsendai.org/2023) | [アジャイルなスポーツ、バスケットボールの魅力](https://speakerdeck.com/ewa/attraction-of-agile-sports-basketball) |
 | 2024/01/11 | [Regional Scrum Gathering Tokyo 2024](https://2024.scrumgatheringtokyo.org/) | [約30年の時を超えたデザインパターンの価値 -現代のスクラムチームの開発者がGoFのデザインパターンを学び直し得たもの-](https://speakerdeck.com/ewa/the-timeless-quality-of-gof-design-patterns) |
 | 2025/05/10 | [Scrum Fest Niigata 2025](https://www.scrumfestniigata.org/) | [良いチームに憧れ苦悩し続ける中で実感した3つの要素](https://speakerdeck.com/ewa/three-things-to-be-a-good-team) |
+| 2026/01/07（予定） | [Regional Scrum Gathering Tokyo 2026](https://2026.scrumgatheringtokyo.org/) | [「要はバランス」を見極める - ADR実践で目指す技術的卓越への道
+](https://confengine.com/conferences/regional-scrum-gathering-tokyo-2026/proposal/23576/adr) |
 
 ## リンク
 ### ブログ
@@ -57,7 +60,7 @@
 - [会社ブログ@クリエーションライン](https://www.creationline.com/author/y-uchida)
 - [会社ブログ@Cybozu](https://blog.cybozu.io/search?q=iOS%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2+%E5%86%85%E7%94%B0)
 
-### 読書ログ
+### その他
 - [読書メーター](https://bookmeter.com/users/1258253)
 
 <!--
