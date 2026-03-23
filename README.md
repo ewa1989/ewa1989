@@ -1,5 +1,5 @@
 ## About
-<img src="https://github.com/user-attachments/assets/335882fc-02b2-4ddd-92c0-7f440bbc18e4" width="500px">
+<img src="https://github.com/user-attachments/assets/5b4e7ae8-71f8-49b4-bb5d-6a73fad8b20f" width="500px">
 
 - えわ (Yusuke Uchida)
 - モバイルエンジニア
@@ -50,7 +50,7 @@
 | 2023/08/26 | [Scrum Fest Sendai 2023](https://www.scrumfestsendai.org/2023) | [アジャイルなスポーツ、バスケットボールの魅力](https://speakerdeck.com/ewa/attraction-of-agile-sports-basketball) |
 | 2024/01/11 | [Regional Scrum Gathering Tokyo 2024](https://2024.scrumgatheringtokyo.org/) | [約30年の時を超えたデザインパターンの価値 -現代のスクラムチームの開発者がGoFのデザインパターンを学び直し得たもの-](https://speakerdeck.com/ewa/the-timeless-quality-of-gof-design-patterns) |
 | 2025/05/10 | [Scrum Fest Niigata 2025](https://www.scrumfestniigata.org/2025) | [良いチームに憧れ苦悩し続ける中で実感した3つの要素](https://speakerdeck.com/ewa/three-things-to-be-a-good-team) |
-| 2026/01/07（予定） | [Regional Scrum Gathering Tokyo 2026](https://2026.scrumgatheringtokyo.org/) | [「要はバランス」を見極める - ADR実践で目指す技術的卓越への道](https://confengine.com/conferences/regional-scrum-gathering-tokyo-2026/proposal/23576/adr) |
+| 2026/01/07 | [Regional Scrum Gathering Tokyo 2026](https://2026.scrumgatheringtokyo.org/) | [「要はバランス」を見極める - ADR実践で目指す技術的卓越への道](https://speakerdeck.com/ewa/it-depends-practicing-adrs-toward-technical-excellence) |
 
 ## リンク
 ### ブログ
